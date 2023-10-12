@@ -1,0 +1,5 @@
+sm:[tailwindclass]
+md:[tailwindclass]
+lg:[tailwindclass]
+xl:[tailwindclass]
+2xl:[tailwindclass]
